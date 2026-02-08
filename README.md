@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development + ML projects<br>🌱 I’m currently learning DSA, Cloud & Deep Learning<br>👯 I’m looking to collaborate on AI/ML & Web projects<br>🤔 I’m looking for Tech, projects & startups<br>💬 Ask me about Java, Python, React<br>⚡ Fun fact: I don’t create bugs, I create unexpected features
+🔭 I’m currently working on Web Development + ML projects<br>🌱 learning DSA, Cloud & Deep Learning<br>👯 looking to collaborate on AI/ML & Web projects<br>🤔 looking for Tech, projects & startups<br>💬 Ask me about Java, Python, React<br>⚡ Fun fact: I don’t create bugs, I create unexpected features
 
 
 ## 🌐 Socials:
